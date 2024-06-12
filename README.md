@@ -17,7 +17,8 @@ https://drive.google.com/drive/folders/1LKvG8D8F60OVy3Wpz81vwky_HaqCVx9T?usp=sha
 https://drive.google.com/drive/folders/1CstVQBfWG5PiqB3-AK2bhoUpIm8Q343U?usp=share_link
 https://drive.google.com/drive/folders/1Ne1QgIoMUiIVdqClIuW1zrSYdoV9-ida?usp=share_link)
 
-[Campaign Results](https://pdf.ac/3j9QO1)
+[Campaign Results]
+(https://pdf.ac/3j9QO1)
 
 ### Videos
 <https://drive.google.com/file/d/16RDsJZUhNnMt1iyo3-jezTew9j3PvfwN/view?usp=share_link
@@ -27,18 +28,20 @@ https://drive.google.com/file/d/1Xwa0UJe09LZ26hIvrQQX79ykNGoUnG98/view?usp=share
 
 ## Examples of My Work
 
-### Brands I've Worked With
-- Ilforno
-- Cottonhome
-- NYF Middle East
-- Empireone Real Estate
-- Odyssey Real Estate
-- Doner & Gyros
-- Colors Cafe
-- Al Raha Hotels
-- Sofitel Hotels
-- Tchaba Tea
+## Brands I've Worked With
+
+- ![Ilforno](https://i.imgur.com/chybe6P.png) **Ilforno**
+- ![Cottonhome](https://i.imgur.com/pPlRIqx.jpeg) **Cottonhome**
+- ![NYF Middle East](https://i.imgur.com/r465XiW.png) **NYF Middle East**
+- ![Empireone Real Estate](https://i.imgur.com/gMw4rTH.jpeg) **Empireone Real Estate**
+- ![Odyssey Real Estate](https://i.imgur.com/7UK3aSH.jpeg) **Odyssey Real Estate**
+- ![Doner & Gyros](https://i.imgur.com/JAmpD6Z.png) **Doner & Gyros**
+- ![Colors Cafe](https://i.imgur.com/RBAIYmK.jpeg) **Colors Cafe**
+- ![Al Raha Hotels](images/al-raha-hotels-logo.png) **Al Raha Hotels**
+- ![Sofitel Hotels](images/sofitel-hotels-logo.png) **Sofitel Hotels**
+- ![Tchaba Tea](images/tchaba-tea-logo.png) **Tchaba Tea**
 - And many more...
+
 
 ## Areas of Expertise
 - Automation Marketing
