@@ -9,7 +9,35 @@ A Digital Marketing Specialist & Strategist with over 9 years of experience buil
 ## Recent Achievement
 Developed and executed 75+ digital marketing campaigns for a B2B technology company across paid search, display, and programmatic marketing channels, resulting in a 35% increase in lead conversions and 1M AED in pipeline revenue.
 
----
+# My Portfolio
+### Images
+![photography co-ordinated](https://drive.google.com/drive/folders/1BmAWR-1MNmQJzeEALH5gOtUTUi5a0A0K?usp=share_link
+https://drive.google.com/drive/folders/1XC2pHaWpfnGLoIwNu0Efd7uaX24i2jj5?usp=share_link
+https://drive.google.com/drive/folders/1LKvG8D8F60OVy3Wpz81vwky_HaqCVx9T?usp=share_link
+https://drive.google.com/drive/folders/1CstVQBfWG5PiqB3-AK2bhoUpIm8Q343U?usp=share_link
+https://drive.google.com/drive/folders/1Ne1QgIoMUiIVdqClIuW1zrSYdoV9-ida?usp=share_link)
+![Campaign Results](https://pdf.ac/3j9QO1)
+
+### Videos
+<https://drive.google.com/file/d/16RDsJZUhNnMt1iyo3-jezTew9j3PvfwN/view?usp=share_link
+https://drive.google.com/file/d/1dM5iwm1C5iLrYh-R_XiMCiFF6pxGCElv/view?usp=share_link
+https://drive.google.com/file/d/1dZTLIgs-OOpDB9RhfdkWceaGv_thUylp/view?usp=share_link
+https://drive.google.com/file/d/1Xwa0UJe09LZ26hIvrQQX79ykNGoUnG98/view?usp=share_link>
+
+## Examples of My Work
+
+### Brands I've Worked With
+- Ilforno
+- Cottonhome
+- NYF Middle East
+- Empireone Real Estate
+- Odyssey Real Estate
+- Doner & Gyros
+- Colors Cafe
+- Al Raha Hotels
+- Sofitel Hotels
+- Tchaba Tea
+- And many more...
 
 ## Areas of Expertise
 - Automation Marketing
