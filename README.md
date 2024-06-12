@@ -26,21 +26,6 @@ https://drive.google.com/file/d/1dM5iwm1C5iLrYh-R_XiMCiFF6pxGCElv/view?usp=share
 https://drive.google.com/file/d/1dZTLIgs-OOpDB9RhfdkWceaGv_thUylp/view?usp=share_link
 https://drive.google.com/file/d/1Xwa0UJe09LZ26hIvrQQX79ykNGoUnG98/view?usp=share_link>
 
-## Examples of My Work
-
-## Brands I've Worked With
-
-- ![Ilforno](https://i.imgur.com/chybe6P.png) **Ilforno**
-- ![Cottonhome](https://i.imgur.com/pPlRIqx.jpeg) **Cottonhome**
-- ![NYF Middle East](https://i.imgur.com/r465XiW.png) **NYF Middle East**
-- ![Empireone Real Estate](https://i.imgur.com/gMw4rTH.jpeg) **Empireone Real Estate**
-- ![Odyssey Real Estate](https://i.imgur.com/7UK3aSH.jpeg) **Odyssey Real Estate**
-- ![Doner & Gyros](https://i.imgur.com/JAmpD6Z.png) **Doner & Gyros**
-- ![Colors Cafe](https://i.imgur.com/RBAIYmK.jpeg) **Colors Cafe**
-- ![Al Raha Hotels](images/al-raha-hotels-logo.png) **Al Raha Hotels**
-- ![Sofitel Hotels](images/sofitel-hotels-logo.png) **Sofitel Hotels**
-- ![Tchaba Tea](images/tchaba-tea-logo.png) **Tchaba Tea**
-- And many more...
 
 
 ## Areas of Expertise
@@ -145,3 +130,6 @@ https://drive.google.com/file/d/1Xwa0UJe09LZ26hIvrQQX79ykNGoUnG98/view?usp=share
 - Reading
 - Football
 - Marketing
+
+
+---
