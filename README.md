@@ -16,7 +16,8 @@ https://drive.google.com/drive/folders/1XC2pHaWpfnGLoIwNu0Efd7uaX24i2jj5?usp=sha
 https://drive.google.com/drive/folders/1LKvG8D8F60OVy3Wpz81vwky_HaqCVx9T?usp=share_link
 https://drive.google.com/drive/folders/1CstVQBfWG5PiqB3-AK2bhoUpIm8Q343U?usp=share_link
 https://drive.google.com/drive/folders/1Ne1QgIoMUiIVdqClIuW1zrSYdoV9-ida?usp=share_link)
-![Campaign Results](https://pdf.ac/3j9QO1)
+
+[Campaign Results](https://pdf.ac/3j9QO1)
 
 ### Videos
 <https://drive.google.com/file/d/16RDsJZUhNnMt1iyo3-jezTew9j3PvfwN/view?usp=share_link
